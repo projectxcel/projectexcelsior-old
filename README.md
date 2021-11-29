@@ -3,7 +3,7 @@ ProjectExcelsior Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/projectexcelsior-project/projectexcelsior.svg?branch=master)](https://travis-ci.org/projectexcelsior-project/projectexcelsior)
 
-https://projectexcelsior.org
+https://projectxcel.com
 
 What is ProjectExcelsior?
 ----------------
@@ -15,7 +15,7 @@ out collectively by the network. ProjectExcelsior Core is the name of open sourc
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the ProjectExcelsior Core software, see [https://projectexcelsior.org](https://projectexcelsior.org).
+the ProjectExcelsior Core software, see [https://projectxcel.com](https://projectxcel.com).
 
 License
 -------
