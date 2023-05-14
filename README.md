@@ -1,7 +1,7 @@
 ProjectExcelsior Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/projectexcelsior-project/projectexcelsior.svg?branch=master)](https://travis-ci.org/projectexcelsior-project/projectexcelsior)
+This is the original core for XCL. XCL has been updated to V0.21.2 (this aligns with Litecoin's latest update)
 
 https://projectxcel.com
 
